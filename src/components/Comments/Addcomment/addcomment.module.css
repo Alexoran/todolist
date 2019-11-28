@@ -1,0 +1,21 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+    padding-bottom: 35px;
+}
+
+.ava {
+    min-width: 50px;
+    min-height: 50px;
+    height: 50px;
+    background: #ff8a00;
+    margin-top: 30px;
+}
+
+.textfield {
+    width: 390px;
+    height: 60px;
+    margin-left: 15px;
+    margin-top: 30px;
+}
